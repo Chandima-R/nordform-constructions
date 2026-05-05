@@ -4,6 +4,14 @@ import {LuxuryEditorial} from "@/components/home/luxury-editorial";
 import {StatsReveal} from "@/components/home/stats-reveal";
 import {HomeManifesto} from "@/components/home/home-manifesto";
 import {HomeProcess} from "@/components/home/home-process";
+import {ServicesLuxury} from "@/components/home/services-luxury";
+import {HomeGalleryMosaic} from "@/components/home/home-gallery-mosaic";
+import {PortfolioHorizontal} from "@/components/home/portfolio-horizontal";
+import {FeaturedStrip} from "@/components/home/featured-strip";
+import {HomeCertifications} from "@/components/home/home-certifications";
+import {TestimonialsSlider} from "@/components/home/testimonials-slider";
+import {TrustRibbon} from "@/components/home/trust-ribbon";
+import {HomeInsightStrip} from "@/components/home/home-insights-strip";
 
 export default function Home() {
   return (
