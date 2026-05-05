@@ -21,36 +21,36 @@ const slides = [
             "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1800&auto=format&fit=crop",
     },
     {
-        title: "Hamnterminal",
+        title: "Hamnterminalen",
         meta: "Göteborg · 2025",
         href: "/projects",
         image:
             "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1800&auto=format&fit=crop",
     },
     {
-        title: "Norra kontorshub",
+        title: "Norra Kontorshub",
         meta: "Uppsala · 2022",
         href: "/projects",
         image:
             "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1800&auto=format&fit=crop",
     },
     {
-        title: "Campus Syd",
-        meta: "Lund · 2023",
+        title: "Kustlinjen Residences",
+        meta: "Malmö · 2024",
         href: "/projects",
         image:
             "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1800&auto=format&fit=crop",
     },
     {
-        title: "Hamnterminal",
-        meta: "Göteborg · 2025",
+        title: "Industriparken 7",
+        meta: "Västerås · 2025",
         href: "/projects",
         image:
             "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1800&auto=format&fit=crop",
     },
     {
-        title: "Norra kontorshub",
-        meta: "Uppsala · 2022",
+        title: "Glashuset Tower",
+        meta: "Helsingborg · 2023",
         href: "/projects",
         image:
             "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1800&auto=format&fit=crop",
