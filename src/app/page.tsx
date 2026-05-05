@@ -12,6 +12,8 @@ import {HomeCertifications} from "@/components/home/home-certifications";
 import {TestimonialsSlider} from "@/components/home/testimonials-slider";
 import {TrustRibbon} from "@/components/home/trust-ribbon";
 import {HomeInsightStrip} from "@/components/home/home-insights-strip";
+import {HomeFaqPremium} from "@/components/home/home-faq-premium";
+import {GrandCTA} from "@/components/home/grand-cta";
 
 export default function Home() {
   return (
